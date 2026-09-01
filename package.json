@@ -1,0 +1,12 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Sample application for GitOps CI/CD demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build step placeholder'",
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
