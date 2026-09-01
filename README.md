@@ -1,6 +1,6 @@
-# GitOps CI/CD Pipeline
+# GitOps DevSecOps Platform
 
-A complete GitOps workflow demonstrating GitHub Actions, Docker builds, security scanning with Trivy, and Argo CD deployments to Kubernetes.
+Enterprise GitOps and DevSecOps workflow demonstrating GitHub Actions, Docker builds, security scanning with Trivy, and Argo CD deployments to Kubernetes for production environments.
 
 ## Architecture
 
